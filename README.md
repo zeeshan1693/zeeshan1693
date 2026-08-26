@@ -2,7 +2,7 @@
 <h3 align="center">Senior PHP Developer / Software Engineer | 10+ Years Building Web Platforms</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Laravel+%7C+CodeIgniter+%7C+Vue.js+%7C+Next.js;10%2B+Years+of+Full-Stack+PHP+Development;AI-Assisted+Development+with+Cursor+AI;Based+in+Riyadh%2C+Saudi+Arabia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Laravel+%7C+CodeIgniter+%7C+Vue.js+%7C+Next.js+%7C+NestJS;10%2B+Years+of+Full-Stack+PHP+Development;AI-Assisted+Development+with+Cursor+AI;Based+in+Riyadh%2C+Saudi+Arabia" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,8 @@
 - 🎯 PHP Developer / Software Engineer with **10+ years** of experience designing and building web platforms in **Laravel**, **CodeIgniter**, and **Core PHP** for domain registration, healthcare, fitness, recruitment, logistics, and e-commerce businesses across Saudi Arabia and India
 - 💼 Currently a **Software Engineer at DNet**, Riyadh, Saudi Arabia
 - 🔗 Skilled in REST API development, third-party & payment-gateway integrations (PayTabs, HyperPay, Tabby, Tamara), and OAuth2/JWT authentication
-- 🤖 Recently built **Tabadulat**, a B2B business-networking platform, **solo end-to-end using Cursor AI** for AI-assisted development
+- 🤖 Recently built **Tabadulat**, a B2B business-networking platform, **solo end-to-end using Cursor AI** — built on NestJS & Next.js
+- ✅ **Certified Member, Saudi Council of Engineers (SCE)**
 - 🛠️ Comfortable owning a project end-to-end — from database design through deployment
 - 📫 Reach me at **mohdzeeshan1693@gmail.com**
 
@@ -42,6 +43,7 @@
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
 **Databases**
@@ -64,6 +66,7 @@
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 **Tools & Version Control**
@@ -78,8 +81,11 @@
 **APIs, Payments & Integrations**
 - REST API Development, Third-Party API Integration, OAuth 2.0, JWT, Webhooks
 - Payment Gateways: PayTabs, HyperPay, Apple Pay, Tabby, Tamara
-- Google Workspace API, Microsoft 365 Integration, Firebase APIs, cPanel APIs
+- Google Workspace API, Microsoft 365 Integration, Firebase APIs, Google Maps, reCAPTCHA, Google Sign-In
+- Accounting & Invoicing: Qoyod Invoice API, Zoho Invoice API
+- Hosting & Server: cPanel APIs
 - SMS Gateways: Unifonic, Deewan, Twilio
+- AI APIs Integrated: OpenAI API, Grok API
 
 ---
 
@@ -91,7 +97,7 @@
 - Build AI-driven and telehealth platforms — an AI chatbot / customer-communication system (Thoraia) and a mental-health consultation platform (Motmaina) — using Laravel and CodeIgniter
 - Delivered membership (9Round) and recruitment (Thaat) portals with online payments, subscription management, and applicant tracking
 - Integrate REST APIs, OAuth 2.0/JWT authentication, and payment gateways (PayTabs, HyperPay, Tabby, Tamara, Apple Pay) across client platforms
-- Independently built **Tabadulat** (tabadulat.sa), a B2B business-networking platform for Saudi companies, end-to-end using Cursor AI
+- Independently built **Tabadulat** (tabadulat.sa), a B2B business-networking platform for Saudi companies, end-to-end using Cursor AI — covering organization/company profiles, sector and city-based browsing, and product/service listings
 
 **Software Engineer | Abdullah Ibrahim Alsayegh Co. (SGC)** — *Nov 2017 – Nov 2023*
 📍 Al Yasmin, Riyadh, Saudi Arabia | [sayeghwater.com](https://sayeghwater.com)
@@ -117,24 +123,24 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| **[DNet](https://dnet.sa)** | CodeIgniter | Domain registration, hosting & business-email platform with DNS management and MS365/Google Workspace integration |
-| **[Motmaina](https://motmaina.com)** | CodeIgniter | Mental-health consultation platform with telemedicine, appointment booking & consultant scheduling |
-| **[Thoraia](https://thoraia.com)** | Laravel | AI-powered business assistant with chatbot automation & multi-channel customer communication |
-| **[9Round](https://9round.sa)** | CodeIgniter | Gym membership platform with multi-branch management, class booking & online payments |
-| **[Thaat](https://thaat.net)** | CodeIgniter | Recruitment portal with applicant tracking, resume management & job-matching |
-| **[Alsayegh VMS](https://alsayeghco.com)** | Laravel | Vehicle fleet management covering maintenance, driver & inventory management |
-| **Alsayegh HRM** | Core PHP | HR system covering payroll, attendance/leave, Iqama/work-permit & grievance handling |
-| **ESAAL (Water & Sewage)** | Laravel | Utility connection management with billing, metering & customer service modules |
-| **Tender Management System** | Laravel | Tender/bid platform with recommendation & multi-level approval workflow |
-| **[Maden Florist](https://madenflorist.com)** | Core PHP | E-commerce site with PayTabs, Tamara BNPL, Unifonic SMS & Qoyod invoicing integrations |
-| **[Total Solutions](https://totalsolutionsa.com)** | Laravel | Corporate business website showcasing products, services & brand |
-| **[Sayegh Water](https://sayeghwater.com)** | CodeIgniter | Corporate website for a water-services company |
-| **[SafEducate](https://safeducateonline.com)** | WordPress | Website for a training, skilling & consulting organization |
-| **[UMS Group](https://umsgroup.in)** | Core PHP | Vehicle inspection booking and management website |
-| **[Great Fabrics](https://greatfabrics.com)** | Core PHP | Bespoke business site for a custom knitted-fabrics manufacturer |
-| **[Soxytoes](https://soxytoes.com)** | OpenCart | E-commerce store for socks with catalog, cart & order tracking |
-| **[FMS TMS](https://fmstms.com)** | Drupal 7 | Cargo and freight-brokerage supply-chain management website |
-| **[Tabadulat](https://tabadulat.sa)** | Built with Cursor AI | B2B platform connecting Saudi companies, products & services — built solo end-to-end using AI-assisted development |
+| **[DNet](https://dnet.sa)** | CodeIgniter, Bootstrap, jQuery | Domain registration, hosting & business-email platform with DNS management and MS365/Google Workspace integration |
+| **[Motmaina](https://motmaina.com)** | CodeIgniter, Bootstrap, jQuery | Mental-health consultation platform with telemedicine, appointment booking & consultant scheduling |
+| **[Thoraia](https://thoraia.com)** | Laravel, Vue.js | AI-powered business assistant with chatbot automation & multi-channel customer communication |
+| **[9Round](https://9round.sa)** | CodeIgniter, Bootstrap, jQuery | Gym membership platform with multi-branch management, class booking & online payments |
+| **[Thaat](https://thaat.net)** | CodeIgniter, Bootstrap, jQuery | Recruitment portal with applicant tracking, resume management & job-matching |
+| **[Alsayegh VMS](https://alsayeghco.com)** | Laravel, Bootstrap, jQuery | Vehicle fleet management covering maintenance, driver & inventory management |
+| **[Alsayegh HRM](https://alsayeghco.com)** | Core PHP, Bootstrap, jQuery | HR system covering payroll, attendance/leave, Iqama/work-permit & grievance handling |
+| **[ESAAL (Water & Sewage)](https://alsayeghco.com)** | Laravel, Bootstrap, jQuery | Utility connection management with billing, metering & customer service modules |
+| **[Tender Management System](https://alsayeghco.com)** | Laravel, Bootstrap, jQuery | Tender/bid platform with recommendation & multi-level approval workflow |
+| **[Maden Florist](https://madenflorist.com)** | Core PHP, Bootstrap, jQuery | E-commerce site with PayTabs, Tamara BNPL, Unifonic SMS & Qoyod invoicing integrations |
+| **[Total Solutions](https://totalsolutionsa.com)** | Laravel, Bootstrap, jQuery | Corporate business website showcasing products, services & brand |
+| **[Sayegh Water](https://sayeghwater.com)** | CodeIgniter, Bootstrap, jQuery | Corporate website for a water-services company |
+| **[SafEducate](https://safeducateonline.com)** | WordPress, Bootstrap, jQuery | Website for a training, skilling & consulting organization |
+| **[UMS Group](https://umsgroup.in)** | Core PHP, Bootstrap, jQuery | Vehicle inspection booking and management website |
+| **[Great Fabrics](https://greatfabrics.com)** | Core PHP, Bootstrap, jQuery | Bespoke business site for a custom knitted-fabrics manufacturer |
+| **[Soxytoes](https://soxytoes.com)** | OpenCart, Bootstrap, jQuery | E-commerce store for socks with catalog, cart & order tracking |
+| **[FMS TMS](https://fmstms.com)** | Drupal 7, Bootstrap, jQuery | Cargo and freight-brokerage supply-chain management website |
+| **[Tabadulat](https://tabadulat.sa)** | NestJS, Next.js (Built with Cursor AI) | B2B platform connecting Saudi companies, products & services — organization profiles, sector/city browse, and listings, built solo end-to-end using AI-assisted development |
 
 ---
 
@@ -144,6 +150,10 @@
 Indraprastha Engineering College, Ghaziabad (UPTU) — 2015
 
 Senior Secondary (Class XII), UP Board, Allahabad — 2010
+
+### 📜 Certifications
+
+- **Saudi Council of Engineers (SCE)** — Certified Member
 
 ---
 
