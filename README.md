@@ -164,7 +164,7 @@ Senior Secondary (Class XII), UP Board, Allahabad — 2010
 <a href="mailto:mohdzeeshan1693@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-📍 Riyadh, Saudi Arabia &nbsp;|&nbsp; 📱 +966 550354529
+📍 Riyadh, Saudi Arabia &nbsp;|&nbsp;
 🗣️ English, Arabic, Hindi
 
 ---
