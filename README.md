@@ -56,7 +56,6 @@
 <p>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/Drupal%207-0678BE?style=for-the-badge&logo=drupal&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCart-16A5E5?style=for-the-badge&logo=opencart&logoColor=white"/>
 </p>
 
 **AI-Assisted Development**
