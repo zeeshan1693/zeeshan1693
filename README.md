@@ -2,7 +2,7 @@
 <h3 align="center">Senior PHP Developer / Software Engineer | 10+ Years Building Web Platforms</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Laravel+%7C+CodeIgniter+%7C+Vue.js+%7C+Next.js+%7C+NestJS;10%2B+Years+of+Full-Stack+PHP+Development;AI-Assisted+Development+with+Cursor+AI;Based+in+Riyadh%2C+Saudi+Arabia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Laravel+%7C+CodeIgniter+%7C+Vue.js+%7C+Next.js;10%2B+Years+of+Full-Stack+PHP+Development;AI-Assisted+Development+with+Cursor+AI;Based+in+Riyadh%2C+Saudi+Arabia" alt="Typing SVG" />
 </p>
 
 <p align="center">
